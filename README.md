@@ -41,7 +41,7 @@ The project applies a range of statistical techniques, including:
 
 ## Project Structure
 - `Poster Applied Statistics Group 09.pdf`: summary of methodology and results
-- `Modelli.R`, 'Process_V2.0.R': data processing and modeling scripts (if included)
+- `Modelli.R`, 'Process_V2.0.R': summary of the data processing and modeling scripts
 
 ## Authors
 - Ester Maiocchi, Marianna Mazza, Matteo Montanari, Alessandro Morra
